@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/ricardoquesada/esp32-arduino-lib-builder/maste
 
 
 # Data Readout
+Buttons
 <img width="583" height="318" alt="image" src="https://github.com/user-attachments/assets/e9269d29-c5a1-425c-92b0-4e4a99bc3509" />
 
 <img width="652" height="642" alt="image" src="https://github.com/user-attachments/assets/29778613-ca8f-4a19-996e-835edf779fda" />
