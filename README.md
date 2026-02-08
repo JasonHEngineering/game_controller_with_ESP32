@@ -25,7 +25,14 @@ txData.buttons = ctl->buttons();  // △, ▢, ◯, X, L1, L2, R1, R2
 
 <img width="583" height="318" alt="image" src="https://github.com/user-attachments/assets/e9269d29-c5a1-425c-92b0-4e4a99bc3509" />
 
+
+txData.lx = ctl->axisX();         // joystick left, x-axis
+txData.ly = ctl->axisY();         // joystick left, y-axis
+txData.rx = ctl->axisRX();        // joystick right, x-axis
+txData.ry = ctl->axisRY();        // joystick right, y-axis
+    
 <img width="652" height="642" alt="image" src="https://github.com/user-attachments/assets/29778613-ca8f-4a19-996e-835edf779fda" />
+
 
 <img width="899" height="256" alt="image" src="https://github.com/user-attachments/assets/41176bc3-5bff-4569-a4c2-bcb896ff2ea8" />
 
