@@ -51,6 +51,11 @@ txData.rt = ctl->throttle();      // throttle, R2
 <img width="906" height="236" alt="image" src="https://github.com/user-attachments/assets/5f00d87a-d955-4bcc-b983-a5e89f46f27c" />
 
 
+txData.dpad = ctl->dpad();        // direction pad
+
 <img width="457" height="175" alt="image" src="https://github.com/user-attachments/assets/b7f92864-8c87-49fd-a608-ed9235e80cc8" />
+
+
+txData.misc = ctl->miscButtons(); // options, start button
 
 <img width="741" height="273" alt="image" src="https://github.com/user-attachments/assets/3a84f056-6b32-45e1-850f-db5f93bbb550" />
