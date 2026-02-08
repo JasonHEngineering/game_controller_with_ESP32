@@ -11,6 +11,10 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 https://raw.githubusercontent.com/ricardoquesada/esp32-arduino-lib-builder/master/bluepad32_files/package_esp32_bluepad32_index.json
 <img width="2347" height="261" alt="image" src="https://github.com/user-attachments/assets/99bda032-b1f2-42c5-b495-b5e85f3e2565" />
 
+<img width="1222" height="628" alt="image" src="https://github.com/user-attachments/assets/669e19b1-e839-4bf2-a452-56f54c51adf7" />
+
 
 # Steps
 <img width="1200" height="595" alt="image" src="https://github.com/user-attachments/assets/e082a510-e022-4cf5-9959-a1cae0bc6812" />
+
+<img width="1177" height="654" alt="image" src="https://github.com/user-attachments/assets/dc379e24-a6e0-4fe4-8896-b5f87d48e0ab" />
