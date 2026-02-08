@@ -37,9 +37,19 @@ txData.ry = ctl->axisRY();        // joystick right, y-axis
 <img width="652" height="642" alt="image" src="https://github.com/user-attachments/assets/29778613-ca8f-4a19-996e-835edf779fda" />
 
 
+txData.buttons = ctl->buttons();  // △, ▢, ◯, X, L1, L2, R1, R2
+
+txData.lt = ctl->brake();         // brake, L2
+
 <img width="899" height="256" alt="image" src="https://github.com/user-attachments/assets/41176bc3-5bff-4569-a4c2-bcb896ff2ea8" />
 
+
+txData.buttons = ctl->buttons();  // △, ▢, ◯, X, L1, L2, R1, R2
+
+txData.rt = ctl->throttle();      // throttle, R2
+
 <img width="906" height="236" alt="image" src="https://github.com/user-attachments/assets/5f00d87a-d955-4bcc-b983-a5e89f46f27c" />
+
 
 <img width="457" height="175" alt="image" src="https://github.com/user-attachments/assets/b7f92864-8c87-49fd-a608-ed9235e80cc8" />
 
